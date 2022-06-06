@@ -4,7 +4,7 @@
 
 * Phone: +7-999-649-46-52
 * Discord: elizaveta(@MotherOfParrots)
-* Email: elizavetasuslova666@gmail.com(https://mail.google.com/)
+* Email: [elizavetasuslova666@gmail.com](https://mail.google.com/)
 * GitHub: [MotherOfParrots](https://github.com/MotherOfParrots)
 
 ## About Me:
@@ -24,7 +24,7 @@ I got a law degree, worked as a freelance illustrator for several years, but now
 def multiply(a, b):
     return a * b
 
-result = multiply (4, 2)
+result = multiply(4, 2)
 print(result)
 ```
 ## Education
